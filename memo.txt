@@ -1,0 +1,8 @@
+npm init -y
+
+ "main": "app.js"
+ "dev": "nodemon app.js"
+
+npm i express nodemon
+
+npm run dev
